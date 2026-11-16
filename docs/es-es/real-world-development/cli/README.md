@@ -16,13 +16,15 @@ A lo largo de estos ejercicios instalarás y autenticarás Copilot CLI, y despu�
 |----------|-------|-------------|
 | [0. Requisitos previos][ex0] | Configuración | Crea tu repositorio y tu codespace |
 | [1. Instalación de Copilot CLI][ex1] | Instalación | Instala y autentica Copilot CLI |
-| [2. Instrucciones personalizadas][ex2] | Contexto | Añade una instrucción y comprueba cómo la sigue Copilot CLI |
-| [3. Generación de código][ex3] | Generación de código | Usa el modo de planificación y genera funcionalidades |
-| [4. Pruebas con Playwright MCP][ex4] | Herramientas externas | Añade el servidor MCP de Playwright y prueba tu funcionalidad en un navegador |
+| [2. Añadir valoraciones][ex2] | Funcionalidad | Añade valoraciones con estrellas a las tarjetas de juegos |
+| [3. Modos de agente][ex3] | Desarrollo | Planifica e implementa el filtrado con Plan y Autopilot |
+| [4. Instrucciones personalizadas][ex4] | Contexto | Añade y aplica instrucciones del repositorio |
 | [5. Habilidades de agente][ex5] | Habilidades | Mejora Copilot con habilidades especializadas |
-| [6. Agentes personalizados][ex6] | Agentes | Revisa y usa agentes personalizados |
-| [7. Comandos de barra][ex7] | Funciones de CLI | Explora el contexto, los modelos, el uso compartido y la delegación opcional al agente en la nube |
-| [9. Repaso][ex9] | Resumen | Repasa los conceptos clave y los próximos pasos |
+| [6. MCP de Playwright][ex6] | Herramientas externas | Usa Playwright MCP para probar la funcionalidad en un navegador |
+| [7. Agente de control de calidad][ex7] | Agentes | Crea y utiliza un agente de QA |
+| [8. Crear un pull request][ex8] | Pull requests | Revisa y fusiona el cambio con Agent Merge |
+| [9. Herramientas de CLI][ex9] | Funciones de CLI | Explora el contexto, los modelos, el uso compartido y la delegación opcional |
+| [10. Repaso][ex10] | Resumen | Repasa los conceptos clave y los próximos pasos |
 | [Opcional: incorpora Foundry][foundry] | Agentes hospedados | Prepara un modelo, crea y despliega el concierge y conéctalo al sitio web en tres módulos |
 
 ## Requisitos previos
@@ -47,11 +49,13 @@ Antes de asistir a este taller, asegúrate de tener:
 
 [ex0]: 0-prerequisites/
 [ex1]: 1-install-copilot-cli/
-[ex2]: 2-custom-instructions/
-[ex3]: 3-generating-code/
-[ex4]: 4-mcp/
+[ex2]: 2-add-star-rating/
+[ex3]: 3-agent-modes/
+[ex4]: 4-custom-instructions/
 [ex5]: 5-agent-skills/
-[ex6]: 6-custom-agents/
-[ex7]: 7-slash-commands/
+[ex6]: 6-mcp-playwright/
+[ex7]: 7-qa-agent/
+[ex8]: 8-create-pull-request/
+[ex9]: 9-cli-power-tools/
 [foundry]: 8-foundry-agent/
-[ex9]: 9-review/
+[ex10]: 10-review/

@@ -7,7 +7,7 @@ authors:
 lastUpdated: 2026-09-18
 ---
 
-**[GitHub Copilot CLI][about-copilot-cli]**는 에이전트형 코딩 도우미인 GitHub Copilot을 터미널에서 사용할 수 있게 합니다. 코드베이스를 살펴보고 코드를 생성하고 명령을 실행하며 외부 도구에 연결하는 작업을 명령줄에서 처리하므로 그래픽 편집기로 전환하지 않고 작업 흐름을 이어 갈 수 있습니다.
+[**GitHub Copilot CLI**][about-copilot-cli]는 에이전트형 코딩 도우미인 GitHub Copilot을 터미널에서 사용할 수 있게 합니다. 코드베이스를 살펴보고 코드를 생성하고 명령을 실행하며 외부 도구에 연결하는 작업을 명령줄에서 처리하므로 그래픽 편집기로 전환하지 않고 작업 흐름을 이어 갈 수 있습니다.
 
 이 워크숍은 하나로 이어지는 Tailspin Toys 작업 흐름을 따라갑니다.
 
